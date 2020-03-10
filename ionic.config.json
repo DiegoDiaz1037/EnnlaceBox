@@ -1,0 +1,7 @@
+{
+  "name": "EnnlaceBox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
